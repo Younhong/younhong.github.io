@@ -1,3 +1,3 @@
-# younhong.github.io
+# Younhong's Github Blog
 
-Younhong First Blog
+To see Younhong's rrepositories, click https://github.com/Younhong?tab=repositories
