@@ -1,3 +1,3 @@
 # Younhong's Github Blog
 
-To see Younhong's repositories, click https://github.com/Younhong?tab=repositories
+To see my repositories, [Click Here](https://github.com/Younhong?tab=repositories)
