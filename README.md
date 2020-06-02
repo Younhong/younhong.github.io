@@ -1,7 +1,9 @@
 # Welcome to Younhong's Github Blog
 
-My name is Younhong Ko, currently majoring in Advanced Computer Engineering.
+My name is Younhong Ko, student of Handong Global University, currently majoring in Advanced Computer Engineering.
 
 Involved Project
 1. View [Hugin](https://younhong.github.io/hugin.github.io/)
 2. View [HandongSAM](https://younhong.github.io/HandongSAM_Project/)
+
+To view my other projects or code work, please click "View my Github Profile" on left side of page.
