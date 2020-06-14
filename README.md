@@ -7,7 +7,7 @@ Involved Project
 2. View [HandongSAM](https://younhong.github.io/HandongSAM_Project/)
 3. View [HGT](https://younhong.github.io/HGT/)
 
-Youtube Channel
-Visit [here](https://www.youtube.com/channel/UCRhEP848OdDY7u5qnvKCqNQ)
+Presentation Video:   
+>> On [Youtube Channel](https://www.youtube.com/channel/UCRhEP848OdDY7u5qnvKCqNQ)
 
 To view my other projects or code work, please click "View my Github Profile" on left side of page.
