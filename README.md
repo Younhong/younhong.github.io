@@ -5,7 +5,7 @@ My name is Younhong Ko, student of Handong Global University, currently majoring
 Involved Project
 1. View [Hugin](https://younhong.github.io/hugin.github.io/)
 2. View [HandongSAM](https://younhong.github.io/HandongSAM_Project/)
-3. View [HGT](https://younhong.github.io/HGT/)
+3. View [HDT](https://younhong.github.io/HDT/)
 
 Presentation Video:   
 >> On [Youtube Channel](https://www.youtube.com/channel/UCRhEP848OdDY7u5qnvKCqNQ)
