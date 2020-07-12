@@ -10,6 +10,9 @@ Involved Project
 5. View [WebDevelop](https://younhong.github.io/Web_Service/)
 6. View [MagicMirror](https://github.com/Younhong/Magic_Mirror/blob/master/README.md)
 
+Those links are for the explanations of projects.   
+To see detailed source code, please visit https://github.com/Younhong and look for the code.
+
 Presentation Video:   
 >> On [Youtube Channel](https://www.youtube.com/channel/UCRhEP848OdDY7u5qnvKCqNQ)
 
