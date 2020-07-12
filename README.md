@@ -8,6 +8,7 @@ Involved Project
 3. View [HDT](https://younhong.github.io/HDT/)
 4. View [MDHTMLConverter](https://younhong.github.io/MDHTMLConverter/)
 5. View [WebDevelop](https://younhong.github.io/Web_Service/)
+6. View [MagicMirror](https://github.com/Younhong/Magic_Mirror/blob/master/README.md)
 
 Presentation Video:   
 >> On [Youtube Channel](https://www.youtube.com/channel/UCRhEP848OdDY7u5qnvKCqNQ)
