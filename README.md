@@ -8,7 +8,7 @@ Involved Project
 3. View [HDT](https://younhong.github.io/HDT/)
 4. View [MDHTMLConverter](https://younhong.github.io/MDHTMLConverter/)
 5. View [WebDevelop](https://younhong.github.io/Web_Service/)
-6. View [MagicMirror](https://github.com/Younhong/Magic_Mirror/blob/master/README.md)
+6. View [MagicMirror](https://younhong.github.io/Magic_Mirror/)
 
 Those links are for the explanations of projects.   
 To see detailed source code, please visit https://github.com/Younhong and look for the code.
