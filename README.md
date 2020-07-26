@@ -11,9 +11,5 @@ Involved Project
 6. View [MagicMirror](https://younhong.github.io/Magic_Mirror/)
 
 Those links are for the explanations of projects.   
-To see detailed source code, please visit https://github.com/Younhong and look for the code.
 
-Presentation Video:   
->> On [Youtube Channel](https://www.youtube.com/channel/UCRhEP848OdDY7u5qnvKCqNQ)
-
-To view my other projects or code work, please click "View my Github Profile" on left side of page or click [here](https://github.com/Younhong).
+To view my other projects or detailed information of cod, please click "View my Github Profile" on left side of page or click [here](https://github.com/Younhong).
