@@ -2,9 +2,6 @@
 title: "What is Cloud Function and how do you use it?"
 date: 2020-8-3 11:26:28 -0400
 categories: jekyll update
-author_profile: true
-layout: categories
-permalink: /categories/
 ---
 
 > Cloud Function is a function that runs on cloud system.   
