@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Younhong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : https://github.com/Younhong
+  location         : "Pohang"
   email            :
   links:
     - label: "Email"
