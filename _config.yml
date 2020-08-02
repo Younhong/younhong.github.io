@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Younhong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : https://github.com/Younhong
+  bio              : "Student of Handong Global University"
   location         : "Pohang"
-  email            :
+  email            : younhong@kakao.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -110,13 +110,13 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/sjgkfkadk"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Younhong"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/younhong_k/"
 
 # Site Footer
 footer:
