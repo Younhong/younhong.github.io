@@ -40,7 +40,7 @@ npm install firebase-functions@latest
 npm install firebase-admin@latest --save
 
 > After installing packages, you are ready to use cloud function.   
-You can write your own code in index.ts(or index.js if you are using javascript).
+You can write your own code in index.ts(or index.js if you are using javascript).   
 Study typescript &amp; nodejs by yourself.(This page does not teach those languages)
 
 # After writing code
