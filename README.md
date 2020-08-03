@@ -1,3 +1,3 @@
 # younhong.github.io
 
-Younhong's github blog with Jekyll mimimal-mistakes theme
+Younhong's github blog with Jekyll minimal-mistakes theme
