@@ -119,16 +119,16 @@ Check your application if your code has been successfully deployed.
 * Android Studio
 
 # Studies for cloud function
-1. NodeJS
-2. Javascript
-3. Front-end(ex: Flutter)
-4. Database System(To write Query Statement)
+* NodeJS
+* Javascript or typescript
+* Front-end(ex: Flutter)
+* Database System(ex: Firebase -> To write query)
 
 # To learn typscript syntax
-> Refer to [reference](https://poiemaweb.com/typescript-introduction)
+* [reference](https://poiemaweb.com/typescript-introduction)
 
 # To learn javascript syntax
-> Refer to [reference1](https://poiemaweb.com/coding), [reference2](https://www.w3schools.com/js/default.asp)
+* [reference1](https://poiemaweb.com/coding), [reference2](https://www.w3schools.com/js/default.asp)
 
 # To learn nodejs
-> Refer to [reference1](https://poiemaweb.com/nodejs-basics), [reference2](https://www.w3schools.com/nodejs/default.asp)
+* [reference1](https://poiemaweb.com/nodejs-basics), [reference2](https://www.w3schools.com/nodejs/default.asp)
