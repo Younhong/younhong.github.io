@@ -35,32 +35,32 @@ If you want to delete every record of someone after user leaves, then you can se
 Once user leaves app(action: trigger), cloud function searches for the every record of that user in database and delete it(response).
 
 # Using Trigger
-In cloud function, you only write trigger.   
-Trigger can be creating, updating or deleting document.   
+On front-end side, you need to define trigger action.     
+Trigger action can be creating, updating or deleting document.   
 
 ```dart
-import 'package:cloud_firestore/cloud_firestore.dart';
-
-    Firestore.instance
-        .collection("Student")
-        .document(sid)
-        .setData({
-            "id": sid
-            "name": name
-        });
+Firestore.instance
+    .collection("Student")
+    .document(sid)
+    .setData({
+        "id": sid
+        "name": name
+    });
  ```
 
 Above code creates document in Student Collection.   
-As a response to trigger, you can define actions.
+On backend-side, as a response to trigger action, you need to define what the function will do.
 
 ```typescript
 export const addStudent = functions.firestore
   .document("Student/{sid}")
   .onCreate((snap, context) => {
+      // Define what you will do with new student
+      // ex) matching team professor
   }
 ```
 
-You can define actions in response to action of creating student's document such as matching team professor.
+Once student document is created which is trigger action, function automatically respond by matching team professor or any other actions you define.
 
 # Why do we need to use cloud function?
 Cloud Function is a very useful tool for saving costs of executing commands.   
