@@ -1,7 +1,7 @@
 ---
-title: "What is Cloud Function and how do you use it?"
+title: "Cloud Function"
 date: 2020-8-3 11:26:28 -0400
-categories: Cloud Study
+categories: Cloud Function
 ---
 
 
