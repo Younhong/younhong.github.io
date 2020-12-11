@@ -5,7 +5,7 @@ categories: Cloud Function
 ---
 
 
-### What is Cloud Function? Why is it different from functions from programming language?
+### What is Cloud Function? What makes it different from functions from programming language?
 Cloud Function is a function that runs on cloud system.   
 It is a function but quite different from functions that you learn from most programming languages such as python, c, java or else.   
 For example, in python you declare function like below.
