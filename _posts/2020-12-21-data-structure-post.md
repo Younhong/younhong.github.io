@@ -37,6 +37,7 @@ free(pi);
 
 ## Object
 * A finite Ordered List with zero or more elements
+
 ## Operation
 * Push, Pop, IsFull, IsEmpty
 
@@ -47,6 +48,7 @@ free(pi);
 
 ## Object
 * A finite Ordered List with zero or more element
+
 ## Operation
 * CreateQ, AddQ, DeleteQ, IsFullQ, IsEmptyQ
 
@@ -63,13 +65,13 @@ free(pi);
 
 # Notation
 * Infix Notation: binary operator in-between operands
->> A+B
+> A+B
 
 * Postfix Notation: operator after operands
->> AB+   
+> AB+   
 
 * Prefix Notataion: operator preceding operands
->> +AB
+> +AB
 
 # Linked List
 * Connection of nodes(elements)
@@ -121,7 +123,7 @@ sparse
 
 * Recursive
 * Degree of a node: number of subtrees of node
->> Leaf: 0 degree
+> Leaf: 0 degree
 * Degree of a tree: maximum degree of the node in the tree
 * Sibling: 같은 부모 노드를 가진 노드들
 * Path: 연결되어 있는 노드들의 순서
@@ -140,22 +142,21 @@ sparse
 * create, isEmpty, makeBT, leftChild, rightChild, returnData
 
 * Full Binary Tree
->> 정의가 웹사이트별로 다르게 되어 있다. 일부는 모든 노드들이 0개 혹은 2개의 자식만을 가지는 것을 의미한다고 하지만, 다른 일부는 마지막 레벨까지 모든 노드들이 2개의 자식을 반드시 가지는 트리라고 말한다.
-
->> 작성자가 수강한 수업 기준으로 앞의 정의가 full binary tree의 정의에 해당되므로 여기에서는 full binary tree는 모든 노드들이(마지막 레벨의 노드 제외) 반드시 2개의 자식 노드를 갖는 꽉찬 트리라고 정의하겠다.
+> 정의가 웹사이트별로 다르게 되어 있다. 일부는 모든 노드들이 0개 혹은 2개의 자식만을 가지는 것을 의미한다고 하지만, 다른 일부는 마지막 레벨까지 모든 노드들이 2개의 자식을 반드시 가지는 트리라고 말한다.   
+> 작성자가 수강한 수업 기준으로 앞의 정의가 full binary tree의 정의에 해당되므로 여기에서는 full binary tree는 모든 노드들이(마지막 레벨의 노드 제외) 반드시 2개의 자식 노드를 갖는 꽉찬 트리라고 정의하겠다.
 
 * Complete Binary Tree
->> 이진 트리 중에서도, 위에서 아래로, 왼쪽에서 오른쪽으로 순서대로 트리의 값을 채워나가면서 마지막 노드에 이르기 전까지 모든 노드의 값은 채워져 있어야 하는 트리이다.
+> 이진 트리 중에서도, 위에서 아래로, 왼쪽에서 오른쪽으로 순서대로 트리의 값을 채워나가면서 마지막 노드에 이르기 전까지 모든 노드의 값은 채워져 있어야 하는 트리이다.
 
 ## Traversal
 * In-order Traversal
->> Left -> Current -> Right
+> Left -> Current -> Right
 * Pre-order Traversal
->> Current -> Left -> Right
+> Current -> Left -> Right
 * Post-order Traversal
->> Left -> Right -> Current
+> Left -> Right -> Current
 * Level-order Traversal
->> 각 레벨별로 (왼쪽부터) 출력하면서 아래 레벨로 내려가는 방식
+> 각 레벨별로 (왼쪽부터) 출력하면서 아래 레벨로 내려가는 방식
 
 # Heap
 * Max Tree: 부모 노드가 항상 자식 노드보다 작지 않은 값을 가지는 트리
@@ -165,9 +166,9 @@ sparse
 
 * Heap: 가장 큰(혹은 작은) 값을 뽑아내거나 추가하는데 효율적인 구조
 * 정렬이 되어 있는 배열이나 Linked List:
->> 값을 뽑는데는 효율적이지만 추가하는데 비효율적
+> 값을 뽑는데는 효율적이지만 추가하는데 비효율적
 * 정렬이 되어 있지 않은 배열이나 Linked List:
->> 값을 추가하는데 효율적이나 뽑아내는데 비효율적
+> 값을 추가하는데 효율적이나 뽑아내는데 비효율적
 
 * 다시 등장한 Priority Queue
 >> Heap을 통해 구현
@@ -239,11 +240,11 @@ sparse
 ## 다시 돌아온 Traversal
 * 앞의 tree traversal과 비교
 * DFS(Depth first search)
->> 가능한 깊게 들어가는 방식   
->> pre-order traversal과 유사
+> 가능한 깊게 들어가는 방식   
+> pre-order traversal과 유사
 * BFS(Breadth first search)
->> 현재 위치에서 가까운 위치에 있는 노드들을 먼저 다 처리한 후에 이동하는 방식   
->> level-order traversal과 유사
+> 현재 위치에서 가까운 위치에 있는 노드들을 먼저 다 처리한 후에 이동하는 방식   
+> level-order traversal과 유사
 
 # Tree에 대한 재정의
 * 두 점이 하나의 경로로만 연결된 그래프
@@ -253,15 +254,15 @@ sparse
 
 ## Minimum cost of spanning tree
 *  Kruskal's Algorithm
->> 자세한 건 알고리즘 파트에서 이어집니다.
+> 자세한 건 알고리즘 파트에서 이어집니다.
 
 # Shortest Path
 * Single Source All Destinations
->> 어떤 한 점에서 나머지 점까지 가장 짧은 경로를 표시   
->> Dijkstra's Algorithm
+> 어떤 한 점에서 나머지 점까지 가장 짧은 경로를 표시   
+> Dijkstra's Algorithm
 * All Pairs Shortest Paths
->> 위의 알고리즘을 확장해 모든 점 사이의 shortest path를 찾아내는 것   
->> Floyd's Algorithm
+> 위의 알고리즘을 확장해 모든 점 사이의 shortest path를 찾아내는 것   
+> Floyd's Algorithm
 
 * 자세한 건 알고리즘 파트에서 더욱 자세히 다룹니다
 
@@ -308,10 +309,13 @@ sparse
 
 ### Overflow Handling
 * Linear Probing
->> 버킷이 다 차면 다음 버킷에 값을 저장한다.
+> 버킷이 다 차면 다음 버킷에 값을 저장한다.
+
+## 단점
+* 메모리 소모량
 
 * Chaining
->> 버킷을 Linked List로 저장
+> 버킷을 Linked List로 저장
 
 # Dynamic Hashing
 ## Trie
