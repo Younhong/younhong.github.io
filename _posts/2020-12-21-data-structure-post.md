@@ -171,7 +171,7 @@ sparse
 > 값을 추가하는데 효율적이나 뽑아내는데 비효율적
 
 * 다시 등장한 Priority Queue
->> Heap을 통해 구현
+> Heap을 통해 구현
 
 # Max Heap
 ## Object 
@@ -198,30 +198,30 @@ sparse
 * G = (V, E)
 
 * Directed Graph / Undirected Graph
->> edge에 order(방향) 유무
+> edge에 order(방향) 유무
 
 * Complete Graph
->> Max # of edge를 가진 그래프
+> Max # of edge를 가진 그래프
 
 * Subgraph
->> 그래프의 모든 e, v가 다른 그래프에 포함되는 경우에 해당된다.
+> 그래프의 모든 e, v가 다른 그래프에 포함되는 경우에 해당된다.
 
 * path
->> sequence of vertices connected
+> sequence of vertices connected
 * simple path
->> path 안의 처음과 마지막 vertice를 제외하고 다 다른 경우
+> path 안의 처음과 마지막 vertice를 제외하고 다 다른 경우
 * cycle
->> simple path이고 처음과 마지막 vertice가 같은 경우
+> simple path이고 처음과 마지막 vertice가 같은 경우
 
 * Connected
->> 두 점 사이에 경로가 존재한다면 connected
+> 두 점 사이에 경로가 존재한다면 connected
 * Connected Component
->> Maximum Connected Subgraph
+> Maximum Connected Subgraph
 * Strongly Connected Directed Component
->> 모든 점 사이에 directed path가 존재한다.
+> 모든 점 사이에 directed path가 존재한다.
 * Degreee
->> Number of edges incident to that vertex   
->> 1. In-degree / Out-degree
+> Number of edges incident to that vertex   
+> In-degree / Out-degree
 
 ## Object
 * Nonempty set of vertices and a set of undirected edges where each edge is a pair of vertices
@@ -231,6 +231,7 @@ sparse
 # Adjacency Matrix
 * 행렬로 연결을 나타낸 것
 * 연결되었으면 1, 아니면 0으로 표시
+
 # Adjacency List
 * Linked List로 연결된 것을 표시하는 방식
 
